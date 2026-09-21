@@ -1,0 +1,3 @@
+pc_endpoint    = "10.0.12.20"          # Prism Central, from the NC2 console
+lab            = true                  # self-signed cert for now
+ssh_public_key = "ssh-ed25519 AAAA... you@laptop"
